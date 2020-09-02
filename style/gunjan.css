@@ -12,7 +12,7 @@
 
 .middle, .outer, .firstdot, .second,.third, .Q  {	
 	position: absolute;
-	height: 150px;
+	height: 25%;
 	opacity: 0;
 }	
 
